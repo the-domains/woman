@@ -1,19 +1,4 @@
-name: WOMAN
-favicon: null
-layout_spectrum: 0.18758737575262785
-typography_spectrum: 0.27420651796273887
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#17BEBB'
@@ -21,8 +6,13 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.8855350511148572
-  lightness: 0.15544298174791038
-  saturation: 0.8499772453214973
-  rhythmicContrast: 0.10257597267627716
+  brandStrength: 0.527871
+  lightness: 0.504223
+  rhythmicContrast: 0.78125
+  saturation: 0.758445
+cta: {}
+layout_spectrum: 0.70777
+name: WOMAN
+opengraph: {}
 purpose: []
+typography_spectrum: 0.663006
