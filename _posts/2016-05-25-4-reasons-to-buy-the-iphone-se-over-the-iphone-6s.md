@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Having launched the latest series of iPhone SE, a lot of people would have questioned Apple's decision that seemed to kill its own products. Why? Because roughly iPhone SE is the iPhone 6S in the form of the iPhone 5S. For those of you who still do not understand, I will reveal more details, 4 reasons to buy an iPhone than the iPhone 6S SE."
-datePublished: '2016-05-25T06:53:33.385Z'
-dateModified: '2016-05-25T06:50:31.907Z'
+datePublished: '2016-05-25T07:10:21.458Z'
+dateModified: '2016-05-25T06:53:42.495Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-25-4-reasons-to-buy-the-iphone-se-over-the-iphone-6s.md
