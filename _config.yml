@@ -1,7 +1,7 @@
 name: WOMAN
 favicon: null
-layout_spectrum: 0.7502
-typography_spectrum: 0.6476
+layout_spectrum: 1
+typography_spectrum: 0.70412
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.5
-  lightness: 0.504223
+  brandStrength: 0.625
+  lightness: 0.5625
   saturation: 0.758445
   rhythmicContrast: 0.5
 purpose: []
