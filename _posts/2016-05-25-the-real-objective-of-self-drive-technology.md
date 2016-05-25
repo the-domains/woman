@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-25T05:53:47.057Z'
-dateModified: '2016-05-25T05:53:44.381Z'
+datePublished: '2016-05-25T05:56:58.434Z'
+dateModified: '2016-05-25T05:55:52.940Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-25-the-real-objective-of-self-drive-technology.md
@@ -19,15 +19,19 @@ _type: Article
 ---
 > __
 
-## Self-driving vehicles -- the stuff of science fiction since the first roads were paved -- are coming, and they're going to radically change what it's like to get from point A to point B.
+## Self-driving vehicles -- the stuff of science fiction since the first roads were paved -- are coming, how uman
 
 ****
+
+__
 
 __
 
 _So, i just check about the new technology on a international news portal news portal and found something interesting about self drive technology. After last March Google has completed field trials on the extent of more than two million kilometers, then one of the Internet-based transportation services company, Uber, also didn't want to miss the test drive. Using a hybrid car, Ford Fusion, Uber conduct its first test on public roads in the city of Pittsburgh , USA._
 
 Jadi, saya baru saja mengecek berita tentang teknologi teranyar di sebuah portal berita internasional dan menemukan sesuatu yang menarik yaitu teknologi self drive teknologi. Setelah Maret lalu Google telah selesai melakukan uji coba lapangan pada sejauh lebih dari dua juta kilometer, maka salah satu perusahaan layanan transportasi berbasis internet, Uber, juga tak mau ketinggalan melakukan test drive. Menggunakan mobil hybrid Ford Fusion, Uber melakukan uji coba pertamanya di jalan umum kota Pittsburgh, Amerika Serikat. 
+
+__
 
 __
 
@@ -43,11 +47,15 @@ __
 
 __
 
+__
+
 _Let's try to observe more deep about this technology vision and mission. In the Google website on self-driving car, they stated that this technology is intended to allow people (especially the elderly and special needs) so they can go anywhere safely without being limited in the ability to drive. In addition they also emphasize the high number of traffic accidents in the United States that always caused by human error. Well, that's really good reasons. Make a better life is what technology for, right?_****
 
 Mari coba kita amati teknologi ini lebih dalam lagi visi misi hadirnya teknologi ini. Dalam website Google tentang self driving car, mereka menyatakan bahwa teknologi ini ditujukan agar manusia (khususnya lansia dan berkebutuhan khusus) bisa pergi kemana saja dengan aman tanpa dibatasi kemampuan dalam menyetir. Selain itu mereka juga menekankan tingginya angka kecelakaan lalu lintas di Amerika Serikat yang selalu disebabkan oleh human error. Well, that's really good reasons. Make a better life is what technology for, right?
 
 ****
+
+__
 
 __
 
