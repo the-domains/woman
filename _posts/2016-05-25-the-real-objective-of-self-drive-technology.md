@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-25T05:42:48.245Z'
-dateModified: '2016-05-25T05:34:43.795Z'
+datePublished: '2016-05-25T05:51:22.695Z'
+dateModified: '2016-05-25T05:51:13.083Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-25-the-real-objective-of-self-drive-technology.md
@@ -18,8 +18,10 @@ _type: Article
 
 ---
 > __
-> 
-> 
+
+Self-driving vehicles -- the stuff of science fiction since the first roads were paved -- are coming, and they're going to radically change what it's like to get from point A to point B.
+
+****
 
 _So, i just check about the new technology on a international news portal news portal and found something interesting about self drive technology. After last March Google has completed field trials on the extent of more than two million kilometers, then one of the Internet-based transportation services company, Uber, also didn't want to miss the test drive. Using a hybrid car, Ford Fusion, Uber conduct its first test on public roads in the city of Pittsburgh , USA._
 
