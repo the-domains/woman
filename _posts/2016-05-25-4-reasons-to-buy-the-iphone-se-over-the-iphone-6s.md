@@ -4,15 +4,15 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-25T06:49:11.416Z'
-dateModified: '2016-05-25T06:47:58.161Z'
+description: "Having launched the latest series of iPhone SE, a lot of people would have questioned Apple's decision that seemed to kill its own products. Why? Because roughly iPhone SE is the iPhone 6S in the form of the iPhone 5S. For those of you who still do not understand, I will reveal more details, 4 reasons to buy an iPhone than the iPhone 6S SE."
+datePublished: '2016-05-25T06:53:33.385Z'
+dateModified: '2016-05-25T06:50:31.907Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-25-4-reasons-to-buy-the-iphone-se-over-the-iphone-6s.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-25-4-reasons-to-buy-the-iphone-se-over-the-iphone-6s.md
 url: 4-reasons-to-buy-the-iphone-se-over-the-iphone-6s/index.html
 _type: Article
 
@@ -37,4 +37,4 @@ Although not tried directly iPhone SE, but it's been a lot of reviews saying tha
 
 ****
 
-It doesn't matter whether you have small, medium, or large-sized hands: sometimes all you need is able to reach each end of the smartphone without any constraints. Although iPhone SE is not a redesign of 5S, but have a similar device from design standpoint. This smartphone will be more comfortable and easy to put in a pocket.
+It doesn't matter whether you have small, medium, or large-sized hands: sometimes all you need is able to reach each end of the smartphone without any constraints. Although iPhone SE is not a redesign of 5S, but have a similar device from design standpoint. This smartphone will be more comfortable and easy to put in a pocket.**\[EFB/image: doc. Apple\]**
