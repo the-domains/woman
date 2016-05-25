@@ -4,27 +4,26 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'So, i just check about the new technology on a international news portal news portal and found something interesting about self drive technology. After last March Google has completed field trials on the extent of more than two million kilometers, then one of the Internet-based transportation services company, Uber, also did not want to miss the test drive. Using a hybrid car Ford Fusion, Uber conduct its first test on public roads in the city of Pittsburgh , USA.'
-datePublished: '2016-05-25T04:04:14.718Z'
-dateModified: '2016-05-25T04:04:00.867Z'
+description: 'Jadi, saya baru saja mengecek berita tentang teknologi teranyar di sebuah portal berita internasional dan menemukan sesuatu yang menarik yaitu teknologi self drive teknologi. Setelah Maret lalu Google telah selesai melakukan uji coba lapangan pada sejauh lebih dari dua juta kilometer, maka salah satu perusahaan layanan transportasi berbasis internet, Uber, juga tak mau ketinggalan melakukan test drive. Menggunakan mobil hybrid Ford Fusion, Uber melakukan uji coba pertamanya di jalan umum kota Pittsburgh, Amerika Serikat. '
+datePublished: '2016-05-25T04:17:16.356Z'
+dateModified: '2016-05-25T04:14:37.964Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-25-the-real-objective-of-self-drive-technology.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-25-the-real-objective-of-self-drive-technology.md
 url: the-real-objective-of-self-drive-technology/index.html
 _type: Article
 
 ---
-> The Phenomenon of Self Drive Technology
-
-_So, i just check about the new technology on a international news portal news portal and found something interesting about self drive technology. After last March Google has completed field trials on the extent of more than two million kilometers, then one of the Internet-based transportation services company, Uber, also did not want to miss the test drive. Using a hybrid car Ford Fusion, Uber conduct its first test on public roads in the city of Pittsburgh , USA._
+> __
+> 
+> So, i just check about the new technology on a international news portal news portal and found something interesting about self drive technology. After last March Google has completed field trials on the extent of more than two million kilometers, then one of the Internet-based transportation services company, Uber, also did not want to miss the test drive. Using a hybrid car Ford Fusion, Uber conduct its first test on public roads in the city of Pittsburgh , USA.
 
 Jadi, saya baru saja mengecek berita tentang teknologi teranyar di sebuah portal berita internasional dan menemukan sesuatu yang menarik yaitu teknologi self drive teknologi. Setelah Maret lalu Google telah selesai melakukan uji coba lapangan pada sejauh lebih dari dua juta kilometer, maka salah satu perusahaan layanan transportasi berbasis internet, Uber, juga tak mau ketinggalan melakukan test drive. Menggunakan mobil hybrid Ford Fusion, Uber melakukan uji coba pertamanya di jalan umum kota Pittsburgh, Amerika Serikat. 
 
-_  
-_
+__
 
 _The phenomenon of self drive this technology has long been practiced by some automotive industry, it's just that the technology giant Google as the world began to seriously work on this project and conduct its first field trials in 2009 using a Toyota Prius. The first test drive was conducted on a freeway in California. Until finally now Google's sophisticated cars have traveled so far over two million kilometers on public roads in the United States. Amazing? Definitely!_
 
