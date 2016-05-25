@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Jadi, saya baru saja mengecek berita tentang teknologi teranyar di sebuah portal berita internasional dan menemukan sesuatu yang menarik yaitu teknologi self drive teknologi. Setelah Maret lalu Google telah selesai melakukan uji coba lapangan pada sejauh lebih dari dua juta kilometer, maka salah satu perusahaan layanan transportasi berbasis internet, Uber, juga tak mau ketinggalan melakukan test drive. Menggunakan mobil hybrid Ford Fusion, Uber melakukan uji coba pertamanya di jalan umum kota Pittsburgh, Amerika Serikat. '
-datePublished: '2016-05-25T04:17:16.356Z'
-dateModified: '2016-05-25T04:14:37.964Z'
+description: ''
+datePublished: '2016-05-25T05:42:48.245Z'
+dateModified: '2016-05-25T05:34:43.795Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-25-the-real-objective-of-self-drive-technology.md
@@ -19,7 +19,9 @@ _type: Article
 ---
 > __
 > 
-> So, i just check about the new technology on a international news portal news portal and found something interesting about self drive technology. After last March Google has completed field trials on the extent of more than two million kilometers, then one of the Internet-based transportation services company, Uber, also did not want to miss the test drive. Using a hybrid car Ford Fusion, Uber conduct its first test on public roads in the city of Pittsburgh , USA.
+> 
+
+_So, i just check about the new technology on a international news portal news portal and found something interesting about self drive technology. After last March Google has completed field trials on the extent of more than two million kilometers, then one of the Internet-based transportation services company, Uber, also didn't want to miss the test drive. Using a hybrid car, Ford Fusion, Uber conduct its first test on public roads in the city of Pittsburgh , USA._
 
 Jadi, saya baru saja mengecek berita tentang teknologi teranyar di sebuah portal berita internasional dan menemukan sesuatu yang menarik yaitu teknologi self drive teknologi. Setelah Maret lalu Google telah selesai melakukan uji coba lapangan pada sejauh lebih dari dua juta kilometer, maka salah satu perusahaan layanan transportasi berbasis internet, Uber, juga tak mau ketinggalan melakukan test drive. Menggunakan mobil hybrid Ford Fusion, Uber melakukan uji coba pertamanya di jalan umum kota Pittsburgh, Amerika Serikat. 
 
