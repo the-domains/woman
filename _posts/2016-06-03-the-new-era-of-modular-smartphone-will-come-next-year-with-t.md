@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'A teaser video from the www.projectara.com shows people swapping the removable modules on their smartphone as they head to the beach, play music and sing songs. Actually the idea behind a phone made of removable modules is really intriguing but potentially disruptive, and at the same time fraught with challenges. It feels like Google want us to explore any Ara module into any of its (up to) half-dozen slot and it just works.'
-datePublished: '2016-06-03T08:12:29.185Z'
-dateModified: '2016-06-03T08:12:09.878Z'
-title: ''
+datePublished: '2016-06-03T08:13:40.504Z'
+dateModified: '2016-06-03T08:12:38.265Z'
+title: Google Ara Will Launch This Year
 author:
   - name: ''
     url: ''
