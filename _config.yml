@@ -2,7 +2,7 @@ name: WOMAN
 favicon: null
 layout_spectrum: 0.89482
 typography_spectrum: 0.22648
-title: 'Word of Mouth Advertising & Networking'
+title: Word of Mouth Advertising & Networking
 cta:
   domain: null
   bucket: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
+    - '#eceff1'
+    - '#1bb0c3'
     - '#000000'
-    - '#4c2611'
-    - '#d0a787'
-    - '#4a6d69'
-    - '#ffd6bc'
-  brandStrength: 0.4375
+    - '#004040'
+    - '#8b8b8b'
+  brandStrength: 0.5
   lightness: 0.6875
   saturation: 0.4375
   rhythmicContrast: 0.25
