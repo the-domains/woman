@@ -7,9 +7,9 @@ keywords: []
 description: >-
   So Agile is dead, so it’s time to eulogize.I know “Agile is Dead” is not a
   terribly new idea, I know many others have made this claim including:
-datePublished: '2016-06-17T00:52:09.126Z'
-dateModified: '2016-06-17T00:51:39.627Z'
-title: Miko Matsumura
+datePublished: '2016-06-17T00:52:50.790Z'
+dateModified: '2016-06-17T00:52:50.159Z'
+title: '" Agile is Dead, Long Live Continuous Delivery "'
 author:
   - name: ''
     url: ''
@@ -22,9 +22,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b0fccc3-9f09-4be5-a051-e09a3d9fcd57.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f83b8a2e-0c1a-47fa-bc74-afa52a3f629a.jpg)
-
-# 
 
 # " Agile is Dead, Long Live Continuous Delivery "
 
