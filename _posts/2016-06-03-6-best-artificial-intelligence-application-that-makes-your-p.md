@@ -4,15 +4,21 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Dreaming of your own Jarvis (A.I. assistant that created by Tony Stark)? Although not as perfect, but the technology that you think only exist in Marvel movie now already developed. You can try out some apps today that demonstrate origin forms of the technology by smartly, swiftly and automatically doing tasks that would otherwise take lots of effort.'
-datePublished: '2016-06-03T08:38:38.051Z'
-dateModified: '2016-06-03T08:38:16.129Z'
+description: >-
+  Dreaming of your own Jarvis (A.I. assistant that created by Tony Stark)?
+  Although not as perfect, but the technology that you think only exist in
+  Marvel movie now already developed. You can try out some apps today that
+  demonstrate origin forms of the technology by smartly, swiftly and
+  automatically doing tasks that would otherwise take lots of effort.
+datePublished: '2016-06-19T23:44:52.536Z'
+dateModified: '2016-06-16T01:04:32.234Z'
 title: 6 Best Artificial Intelligence Application as Your Personal Assistant
 author: []
-sourcePath: _posts/2016-06-03-6-best-artificial-intelligence-application-that-makes-your-p.md
+sourcePath: >-
+  _posts/2016-06-03-6-best-artificial-intelligence-application-that-makes-your-p.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: 6-best-artificial-intelligence-application-that-makes-your-p/index.html
 _type: Article
 
