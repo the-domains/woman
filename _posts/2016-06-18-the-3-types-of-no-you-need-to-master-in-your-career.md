@@ -1,5 +1,5 @@
 ---
-dateModified: '2016-06-18T00:26:31.884Z'
+dateModified: '2016-06-18T08:10:51.060Z'
 description: >-
   There's a reason why "no" is one of first words we learn to say. Life never
   fails to throw us offers and opportunities that are worth turning down. As we
@@ -27,13 +27,13 @@ publisher:
   favicon: 'http://www.fastcompany.com/favicon.ico'
 title: The 3 Types Of "No" You Need To Master In Your Career
 author: []
-datePublished: '2016-06-18T00:29:34.913Z'
+datePublished: '2016-06-19T23:43:54.931Z'
 inFeed: true
 hasPage: false
 inNav: false
 authors: []
-starred: true
 sourcePath: _posts/2016-06-18-the-3-types-of-no-you-need-to-master-in-your-career.md
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
