@@ -1,5 +1,5 @@
 ---
-dateModified: '2016-06-20T08:26:43.268Z'
+dateModified: '2016-06-21T03:44:49.819Z'
 description: >-
   If you use alerts on your phone or sticky notes on your desk to remind
   yourself to complete a task, researchers have found an easier, more effective
@@ -25,7 +25,7 @@ publisher:
   url: 'http://www.fastcompany.com'
 title: The Simple Brain Trick That Will Transform Your Memory
 author: []
-datePublished: '2016-06-21T03:50:26.712Z'
+datePublished: '2016-06-21T03:57:23.532Z'
 starred: false
 sourcePath: _posts/2016-06-21-the-simple-brain-trick-that-will-transform-your-memory.md
 inFeed: true
