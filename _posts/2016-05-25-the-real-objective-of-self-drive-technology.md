@@ -5,14 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-25T07:00:15.064Z'
-dateModified: '2016-05-25T06:59:08.903Z'
-title: Self-driving vehicles – the stuff of science fiction since the first roads were paved – are coming to us.
+datePublished: '2016-06-21T03:50:19.899Z'
+dateModified: '2016-05-25T14:43:43.612Z'
+title: >-
+  Self-driving vehicles – the stuff of science fiction since the first roads
+  were paved – are coming to us.
 author: []
 sourcePath: _posts/2016-05-25-the-real-objective-of-self-drive-technology.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: the-real-objective-of-self-drive-technology/index.html
 _type: Article
 
