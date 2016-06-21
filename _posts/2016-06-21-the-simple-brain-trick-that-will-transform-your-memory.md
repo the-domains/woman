@@ -1,13 +1,10 @@
 ---
-dateModified: '2016-06-21T08:30:41.373Z'
-datePublished: '2016-06-21T08:30:48.782Z'
-description: >-
-  If you use alerts on your phone or sticky notes on your desk to remind
-  yourself to complete a task, researchers have found an easier, more effective
-  way to trigger your memory ... and it involves an alien doll.
-inLanguage: en
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: >-
   http://www.fastcompany.com/3060817/your-most-productive-self/the-simple-brain-trick-that-will-transform-your-memory
+inLanguage: en
 keywords:
   - reminder
   - milkman
@@ -19,18 +16,22 @@ keywords:
   - alien
   - wharton
   - association
-publisher:
-  domain: www.fastcompany.com
-  favicon: 'http://www.fastcompany.com/favicon.ico'
-  name: Fast Company
-  url: 'http://www.fastcompany.com'
+description: >-
+  If you use alerts on your phone or sticky notes on your desk to remind
+  yourself to complete a task, researchers have found an easier, more effective
+  way to trigger your memory ... and it involves an alien doll.
+datePublished: '2016-06-21T12:17:09.294Z'
+dateModified: '2016-06-21T12:15:10.437Z'
 title: The Simple Brain Trick That Will Transform Your Memory
 author: []
-starred: false
 sourcePath: _posts/2016-06-21-the-simple-brain-trick-that-will-transform-your-memory.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Fast Company
+  domain: www.fastcompany.com
+  url: 'http://www.fastcompany.com'
+  favicon: 'http://www.fastcompany.com/favicon.ico'
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
