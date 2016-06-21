@@ -1,5 +1,5 @@
 ---
-dateModified: '2016-06-21T03:42:06.973Z'
+dateModified: '2016-06-21T12:16:56.183Z'
 description: >-
   Successful entrepreneurs put all of their efforts into building and growing
   their new ventures, setting their own egos aside, and prioritizing hard work
@@ -21,18 +21,19 @@ keywords:
   - always
   - wrong
 publisher:
-  domain: www.fastcompany.com
-  favicon: 'http://www.fastcompany.com/favicon.ico'
   name: Fast Company
+  domain: www.fastcompany.com
   url: 'http://www.fastcompany.com'
+  favicon: 'http://www.fastcompany.com/favicon.ico'
 title: Six Habits Of People Who Confuse Ego With Self-Confidence
 author: []
-datePublished: '2016-06-21T03:50:13.774Z'
-starred: false
+datePublished: '2016-06-21T12:17:03.387Z'
 sourcePath: _posts/2016-06-21-six-habits-of-people-who-confuse-ego-with-self-confidence.md
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
