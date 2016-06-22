@@ -1,14 +1,10 @@
 ---
-dateModified: '2016-06-21T12:16:56.183Z'
-description: >-
-  Successful entrepreneurs put all of their efforts into building and growing
-  their new ventures, setting their own egos aside, and prioritizing hard work
-  above all else. Same goes for anyone trying to advance their career-it's all
-  strategy, skills, and relationships; you don't move ahead simply by being an
-  incredible person.
-inLanguage: en
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: >-
   http://www.fastcompany.com/3060947/six-habits-of-people-who-confuse-ego-with-self-confidence
+inLanguage: en
 keywords:
   - ego
   - entrepreneur
@@ -20,19 +16,23 @@ keywords:
   - confident
   - always
   - wrong
+description: >-
+  Successful entrepreneurs put all of their efforts into building and growing
+  their new ventures, setting their own egos aside, and prioritizing hard work
+  above all else. Same goes for anyone trying to advance their career-it's all
+  strategy, skills, and relationships; you don't move ahead simply by being an
+  incredible person.
+datePublished: '2016-06-22T00:32:39.430Z'
+dateModified: '2016-06-21T12:18:45.688Z'
+title: Six Habits Of People Who Confuse Ego With Self-Confidence
+author: []
+sourcePath: _posts/2016-06-21-six-habits-of-people-who-confuse-ego-with-self-confidence.md
+authors: []
 publisher:
   name: Fast Company
   domain: www.fastcompany.com
   url: 'http://www.fastcompany.com'
   favicon: 'http://www.fastcompany.com/favicon.ico'
-title: Six Habits Of People Who Confuse Ego With Self-Confidence
-author: []
-datePublished: '2016-06-21T12:17:03.387Z'
-sourcePath: _posts/2016-06-21-six-habits-of-people-who-confuse-ego-with-self-confidence.md
-inFeed: true
-hasPage: false
-inNav: false
-authors: []
 starred: true
 _context: 'http://schema.org'
 _type: MediaObject
