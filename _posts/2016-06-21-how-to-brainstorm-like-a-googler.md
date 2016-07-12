@@ -1,5 +1,5 @@
 ---
-dateModified: '2016-06-21T03:45:04.077Z'
+dateModified: '2016-06-21T12:15:44.376Z'
 description: >-
   Here at Google, we don't have a secret formula for innovation. But that
   doesn't mean Googlers' best ideas are ineffable mysteries. On the contrary,
@@ -20,18 +20,19 @@ keywords:
   - mobility
   - solving
 publisher:
-  domain: www.fastcompany.com
-  favicon: 'http://www.fastcompany.com/favicon.ico'
   name: Fast Company
+  domain: www.fastcompany.com
   url: 'http://www.fastcompany.com'
+  favicon: 'http://www.fastcompany.com/favicon.ico'
 title: How To Brainstorm Like A Googler
 author: []
-datePublished: '2016-06-21T03:49:34.425Z'
-starred: false
+datePublished: '2016-07-12T09:29:43.878Z'
 sourcePath: _posts/2016-06-21-how-to-brainstorm-like-a-googler.md
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
